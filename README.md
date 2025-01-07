@@ -4,7 +4,14 @@
 - 📫 How to reach me **k24tu@uwaterloo.ca**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+
+<style>
+  .tools a {
+    text-decoration: none;
+  }
+</style>
+
+<p class="tools"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a> 
