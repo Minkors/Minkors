@@ -1,3 +1,9 @@
+<style>
+  .tools a {
+    text-decoration: none;
+  }
+</style>
+
 <h1 align="center">Hi, I'm Kevin Tu</h1>
 <h3 align="center">I am an undergrad student at University of Waterloo majoring in Mechatronics Engineering, expecting to graduate in 2029. I enjoy math, programming, digital art, and robotics.</h3>
 
